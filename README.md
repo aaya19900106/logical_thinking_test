@@ -5,8 +5,10 @@ Q1. 英語と数学のテストを75名に行ったところ、以下の結果�
 
 テストを受けた人のうち、英語、数学どちらも合格点を取った人は何名か
 
-A1.【回答を記入してください】  
-【どのように考えたのかの概要を記載してください】 
+A1.10名 
+図に記載しました。
+[![Image from Gyazo](https://t.gyazo.com/teams/startup-technology/58ed61566cc4b5fafc9fd321ee073d45.png)](https://startup-technology.gyazo.com/58ed61566cc4b5fafc9fd321ee073d45)
+
 
 Q2. 省略
 
